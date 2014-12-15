@@ -1,0 +1,18 @@
+c:\users\jhon\documents\visual studio 2013\Projects\tvtime\tvtime\bin\Debug\tvtime.exe.config
+c:\users\jhon\documents\visual studio 2013\Projects\tvtime\tvtime\bin\Debug\tvtime.exe
+c:\users\jhon\documents\visual studio 2013\Projects\tvtime\tvtime\bin\Debug\tvtime.pdb
+c:\users\jhon\documents\visual studio 2013\Projects\tvtime\tvtime\obj\Debug\tvtime.csprojResolveAssemblyReference.cache
+c:\users\jhon\documents\visual studio 2013\Projects\tvtime\tvtime\obj\Debug\tvtime.Form1.resources
+c:\users\jhon\documents\visual studio 2013\Projects\tvtime\tvtime\obj\Debug\tvtime.Properties.Resources.resources
+c:\users\jhon\documents\visual studio 2013\Projects\tvtime\tvtime\obj\Debug\tvtime.csproj.GenerateResource.Cache
+c:\users\jhon\documents\visual studio 2013\Projects\tvtime\tvtime\obj\Debug\tvtime.exe
+c:\users\jhon\documents\visual studio 2013\Projects\tvtime\tvtime\obj\Debug\tvtime.pdb
+E:\files\natelandpc\z\software\my software\visual studio c#\projects\tvtime\tvtime\bin\Debug\tvtime.exe.config
+E:\files\natelandpc\z\software\my software\visual studio c#\projects\tvtime\tvtime\obj\Debug\tvtime.exe
+E:\files\natelandpc\z\software\my software\visual studio c#\projects\tvtime\tvtime\obj\Debug\tvtime.pdb
+E:\files\natelandpc\z\software\my software\visual studio c#\projects\tvtime\tvtime\bin\Debug\tvtime.exe
+E:\files\natelandpc\z\software\my software\visual studio c#\projects\tvtime\tvtime\bin\Debug\tvtime.pdb
+E:\files\natelandpc\z\software\my software\visual studio c#\projects\tvtime\tvtime\obj\Debug\tvtime.csprojResolveAssemblyReference.cache
+E:\files\natelandpc\z\software\my software\visual studio c#\projects\tvtime\tvtime\obj\Debug\tvtime.Form1.resources
+E:\files\natelandpc\z\software\my software\visual studio c#\projects\tvtime\tvtime\obj\Debug\tvtime.Properties.Resources.resources
+E:\files\natelandpc\z\software\my software\visual studio c#\projects\tvtime\tvtime\obj\Debug\tvtime.csproj.GenerateResource.Cache

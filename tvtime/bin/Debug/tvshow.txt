@@ -1,0 +1,2 @@
+b|b|1|1
+a|http://stackoverflow.com/questions/15442596/using-streamreader-readline-in-loop-only-reads-one-line-from-text-file|1|1
