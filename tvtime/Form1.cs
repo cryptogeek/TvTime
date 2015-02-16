@@ -96,6 +96,12 @@ namespace tvtime
                 //show and hide saved label
                 label6.Visible = true;
                 hideLabel();
+
+                //enable increment buttons
+                button5.Enabled = true;
+                button6.Enabled = true;
+                button7.Enabled = true;
+                button8.Enabled = true;
             }
         }
         public async Task hideLabel()
@@ -112,7 +118,7 @@ namespace tvtime
                 listBox1.Items.Add("new tv-show");
                 index = listBox1.FindString("new tv-show");
                 listBox1.SetSelected(index, true);
-                textBox1.Text = "The 100";
+                textBox1.Text = "";
                 textBox2.Text = "https://google.com/search?q=the+100+season+sss+episode+eee";
                 textBox3.Text = "1";
                 textBox4.Text = "1";
@@ -123,6 +129,12 @@ namespace tvtime
         {
             if (listBox1.SelectedIndex != -1)
             {
+                //enable increment buttons
+                button5.Enabled = true;
+                button6.Enabled = true;
+                button7.Enabled = true;
+                button8.Enabled = true; 
+                
                 curItem = listBox1.SelectedItem.ToString();
 
                 if (curItem != "new tv-show")
@@ -217,24 +229,28 @@ namespace tvtime
         }
         private void button5_Click(object sender, EventArgs e)
         {
+            button5.Enabled = false;
             int nb = Convert.ToInt32(textBox3.Text);
             nb++;
             textBox3.Text = nb.ToString();
         }
         private void button7_Click(object sender, EventArgs e)
         {
+            button7.Enabled = false; 
             int nb = Convert.ToInt32(textBox3.Text);
             nb--;
             textBox3.Text = nb.ToString();
         }
         private void button6_Click(object sender, EventArgs e)
         {
+            button6.Enabled = false; 
             int nb = Convert.ToInt32(textBox4.Text);
             nb++;
             textBox4.Text = nb.ToString();
         }
         private void button8_Click(object sender, EventArgs e)
         {
+            button8.Enabled = false; 
             int nb = Convert.ToInt32(textBox4.Text);
             nb--;
             textBox4.Text = nb.ToString();

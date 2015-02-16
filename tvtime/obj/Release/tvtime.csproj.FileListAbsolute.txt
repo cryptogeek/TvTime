@@ -16,3 +16,12 @@ E:\files\natelandpc\z\software\my software\visual studio c#\projects\tvtime\tvti
 E:\files\natelandpc\z\software\my software\visual studio c#\projects\tvtime\tvtime\obj\Release\tvtime.Form1.resources
 E:\files\natelandpc\z\software\my software\visual studio c#\projects\tvtime\tvtime\obj\Release\tvtime.Properties.Resources.resources
 E:\files\natelandpc\z\software\my software\visual studio c#\projects\tvtime\tvtime\obj\Release\tvtime.csproj.GenerateResource.Cache
+E:\files\a\software\my software\visual studio c#\projects\tvtime\tvtime\bin\Release\tvtime.exe.config
+E:\files\a\software\my software\visual studio c#\projects\tvtime\tvtime\obj\Release\tvtime.exe
+E:\files\a\software\my software\visual studio c#\projects\tvtime\tvtime\obj\Release\tvtime.pdb
+E:\files\a\software\my software\visual studio c#\projects\tvtime\tvtime\bin\Release\tvtime.exe
+E:\files\a\software\my software\visual studio c#\projects\tvtime\tvtime\bin\Release\tvtime.pdb
+E:\files\a\software\my software\visual studio c#\projects\tvtime\tvtime\obj\Release\tvtime.csprojResolveAssemblyReference.cache
+E:\files\a\software\my software\visual studio c#\projects\tvtime\tvtime\obj\Release\tvtime.Form1.resources
+E:\files\a\software\my software\visual studio c#\projects\tvtime\tvtime\obj\Release\tvtime.Properties.Resources.resources
+E:\files\a\software\my software\visual studio c#\projects\tvtime\tvtime\obj\Release\tvtime.csproj.GenerateResource.Cache
