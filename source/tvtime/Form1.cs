@@ -255,9 +255,9 @@ namespace tvtime
             nb--;
             textBox4.Text = nb.ToString();
         }
-        private void linkLabel1_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
-        {
-            System.Diagnostics.Process.Start("https://cryptogeek.ninja/");
-        }
+        //private void linklabel1_linkclicked(object sender, linklabellinkclickedeventargs e)
+        //{
+        //    system.diagnostics.process.start("https://alexandrevikol.me/");
+        //}
     }
 }
